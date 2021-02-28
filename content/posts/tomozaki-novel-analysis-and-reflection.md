@@ -1,5 +1,5 @@
 ---
-title: "Analysis: Three Possible Endings and Five Turing Points for the Relationship between Tomozaki and Hinami"
+title: "Analysis: Three Possible Endings and Five Turning Points for the Relationship between Tomozaki and Hinami"
 date: 2021-02-27T23:02:35+08:00
 draft: false
 ---
